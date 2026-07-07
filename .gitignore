@@ -1,0 +1,14 @@
+# Project
+.DS_Store
+*.pyc
+__pycache__/
+node_modules/
+
+# Temp
+/tmp/life-log-frames/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
